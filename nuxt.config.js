@@ -38,9 +38,22 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
+    '@nuxt/content'
   ],
+
+  content: {
+    // https://content.nuxtjs.org/api/configuration
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  generate : {
+    dir : "docs"
+  },
+
+  router : {
+    base : "/myblog/"
   }
 }
