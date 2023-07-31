@@ -1,5 +1,5 @@
 ---
-title: 最初の記事
+title: 記事タイトル
 description: 『吾輩は猫である』の冒頭
 ---
 
