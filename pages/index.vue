@@ -16,7 +16,7 @@
 <script>
 export default {
   async asyncData ({ $content, params }) {
-    const list = await $content('post').fetch()
+    const list = await $content('post').sortBy('createdAt').fetch()
     return {
       list
     }
