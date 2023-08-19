@@ -1,0 +1,18 @@
+---
+title: サンタクロースの落とし物
+description: 
+---
+
+制作期間 : 2020/12 ～ 2021/2 (3ヵ月)
+
+**プレイ動画**  
+[https://youtu.be/CVTo7z-Sle4](https://youtu.be/CVTo7z-Sle4)
+
+**ソースコード**  
+[https://github.com/SetsunaTsuyuri/SantaClausLostAndFound_Public](https://github.com/SetsunaTsuyuri/SantaClausLostAndFound_Public)
+
+**ブラウザで遊ぶ**  
+[https://unityroom.com/games/santaclaus_lost_and_found](https://unityroom.com/games/santaclaus_lost_and_found)
+
+**Windows版ダウンロード**  
+[https://drive.google.com/file/d/1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o/view?usp=drive_link](https://drive.google.com/file/d/1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o/view?usp=drive_link)
