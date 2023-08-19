@@ -1,11 +1,9 @@
 ---
-title: 作品ページタイトル
-description: 作品ページ雛形
+title: 夢幻のアルカイク
+description:
 ---
 
-### 夢幻のアルカイク(制作進行中)
-
-制作期間 : 2021/10 ～
+制作期間 : 2021/10 ～ (制作進行中)
 
 **プレイ動画**  
 [https://youtu.be/RMwTVMgUs_A](https://youtu.be/RMwTVMgUs_A)
