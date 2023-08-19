@@ -1,27 +1,20 @@
 ---
-title: 2つ目の記事
-description: markdownの書き方サンプル
+title: 作品ページタイトル
+description: 作品ページ雛形
 ---
 
-# 記述例
-PHPコード
+### いきのこれ！ ユニティちゃん
 
-```php
-<?php
-echo $test;
-?>
-```
+制作期間 : 2022/4 ～ 2022/6 (3ヵ月)
 
-HTMLタグ
-```
-<p>テスト</p>
-```
+**プレイ動画**  
+[https://www.youtube.com/watch?v=xfeaJHBlR9Q](https://www.youtube.com/watch?v=xfeaJHBlR9Q)
 
-# 言語
+**ソースコード**  
+[https://github.com/SetsunaTsuyuri/SurviveUnitychan_Public](https://github.com/SetsunaTsuyuri/SurviveUnitychan_Public)
 
-* HTML
-* JavaScript
+**ブラウザで遊ぶ**  
+[https://unityroom.com/games/survive_unitychan](https://unityroom.com/games/survive_unitychan)
 
-### 参考
-
->引用
+**Windows版ダウンロード**  
+[https://drive.google.com/file/d/1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-/view?usp=drive_link](https://drive.google.com/file/d/1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-/view?usp=drive_link)
