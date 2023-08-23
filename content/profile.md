@@ -1,15 +1,7 @@
 ---
 title: Profile
 ---
-2023年8月20日 現在
-
-**川﨑 海里 (かわさき かいり)**
-
-バンタンゲームアカデミー東京校  
-ゲーム学部 4年制ゲームプログラマー専攻4年次 (旧称: 大学部 ゲーム制作大学部)  
-2024年3月卒業予定
-
-E-Mail : **ametsuyushiori@gmail.com**
+2023年8月23日 現在
 
 ソースコード(GitHub)  
 [https://github.com/SetsunaTsuyuri](https://github.com/SetsunaTsuyuri) 
