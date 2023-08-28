@@ -3,6 +3,8 @@ title: ミニゲーム集
 description: 
 ---
 
+<img src="/images/minigames_1.jpg" width="50%">
+
 制作期間 : 2021/4 ～ 2021/6 (3ヵ月)
 
 **プレイ動画**  

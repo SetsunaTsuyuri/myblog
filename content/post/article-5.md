@@ -3,6 +3,8 @@ title: 2Dシューティング
 description: 
 ---
 
+<img src="/images/shooting_2d.jpg" width="50%">
+
 制作期間 : 2020/6 ～ 2020/7 (2ヵ月)
 
 **プレイ動画**  

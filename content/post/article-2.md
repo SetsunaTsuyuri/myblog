@@ -3,6 +3,8 @@ title: いきのこれ！ ユニティちゃん
 description: 
 ---
 
+<img src="/images/survive_unitychan.jpg" width="50%">
+
 制作期間 : 2022/4 ～ 2022/6 (3ヵ月)
 
 **プレイ動画**  

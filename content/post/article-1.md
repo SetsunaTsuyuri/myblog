@@ -3,6 +3,8 @@ title: 夢幻のアルカイク
 description:
 ---
 
+<img src="/images/archetypes_of_dreams.jpg" width="50%">
+
 制作期間 : 2021/10 ～ (制作進行中)
 
 **プレイ動画**  

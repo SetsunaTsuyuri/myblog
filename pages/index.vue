@@ -16,7 +16,10 @@
 <script>
 export default {
   async asyncData ({ $content, params }) {
-    const list = await $content('post').sortBy('createdAt').fetch()
+    const list = await $content('post').fetch()
+    list.sort((a, b) => {
+      return (a.path < b.path) ? -1 : 1
+    })
     return {
       list
     }

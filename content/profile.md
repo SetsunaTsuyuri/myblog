@@ -1,7 +1,7 @@
 ---
 title: Profile
 ---
-2023年8月23日 現在
+2023年8月28日 現在
 
 ソースコード(GitHub)  
 [https://github.com/SetsunaTsuyuri](https://github.com/SetsunaTsuyuri) 

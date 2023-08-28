@@ -3,6 +3,8 @@ title: ぷちぷちクラッシュ！
 description: 
 ---
 
+<img src="/images/puchi_puchi_crash.jpg" width="50%">
+
 **2022年11月 株式会社カプコンのインターン(ゲーム制作対決)優勝作品**
 
 制作期間 : 2日間  
