@@ -3,7 +3,7 @@ title: ぷちぷちクラッシュ！
 description: 
 ---
 
-<img src="myblog/images/puchi_puchi_crash.jpg" width="50%">
+<img src="images/puchi_puchi_crash.jpg" width="50%">
 
 **2022年11月 株式会社カプコンのインターン(ゲーム制作対決)優勝作品**
 
