@@ -17,4 +17,4 @@ description:
 [https://unityroom.com/games/kakeagare_unitychan](https://unityroom.com/games/kakeagare_unitychan)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN/view?usp=drive_link](https://drive.google.com/file/d/1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN/view?usp=drive_link)
+[https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&export=download](https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&export=download)

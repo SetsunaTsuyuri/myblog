@@ -8,10 +8,10 @@ description:
 制作期間 : 2021/10 ～ (制作進行中)
 
 **プレイ動画**  
-[https://youtu.be/RMwTVMgUs_A](https://youtu.be/RMwTVMgUs_A)
+[https://youtu.be/zxwHTr6AhxM](https://youtu.be/zxwHTr6AhxM)
 
 **ソースコード**  
 [https://github.com/SetsunaTsuyuri/ArchetypesOfDreams_Public](https://github.com/SetsunaTsuyuri/ArchetypesOfDreams_Public)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1MOGs38plY8UUbuHgcfCqHFFbFnu88jV9/view?usp=drive_link](https://drive.google.com/file/d/1MOGs38plY8UUbuHgcfCqHFFbFnu88jV9/view?usp=sharing)
+[https://drive.google.com/u/0/uc?id=18PimQrFq-kUKFkZznzmk2UnfFp1_MJNO&export=download](https://drive.google.com/u/0/uc?id=18PimQrFq-kUKFkZznzmk2UnfFp1_MJNO&export=download)

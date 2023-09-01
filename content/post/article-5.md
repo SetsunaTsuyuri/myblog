@@ -17,4 +17,4 @@ description:
 [https://unityroom.com/games/shooting2d](https://unityroom.com/games/shooting2d)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ/view?usp=drive_link](https://drive.google.com/file/d/1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ/view?usp=drive_link)
+[https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download](https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download)

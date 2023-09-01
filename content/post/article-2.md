@@ -17,4 +17,4 @@ description:
 [https://unityroom.com/games/survive_unitychan](https://unityroom.com/games/survive_unitychan)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-/view?usp=drive_link](https://drive.google.com/file/d/1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-/view?usp=drive_link)
+[https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download](https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download)

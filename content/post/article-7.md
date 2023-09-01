@@ -17,4 +17,4 @@ description:
 [https://github.com/SetsunaTsuyuri/PuchiPuchiCrash](https://github.com/SetsunaTsuyuri/PuchiPuchiCrash)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX/view?usp=drive_link](https://drive.google.com/file/d/1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX/view?usp=drive_link)
+[https://drive.google.com/u/0/uc?id=1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX&export=download](https://drive.google.com/u/0/uc?id=1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX&export=download)

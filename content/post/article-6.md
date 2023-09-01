@@ -17,4 +17,4 @@ description:
 [https://unityroom.com/games/minigames_1](https://unityroom.com/games/minigames_1)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1DY3YSjFUbDuvIl63exYKajEyLmQVcbar/view?usp=drive_link](https://drive.google.com/file/d/1DY3YSjFUbDuvIl63exYKajEyLmQVcbar/view?usp=drive_link)
+[https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download](https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download)

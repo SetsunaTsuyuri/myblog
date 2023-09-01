@@ -17,4 +17,4 @@ description:
 [https://unityroom.com/games/santaclaus_lost_and_found](https://unityroom.com/games/santaclaus_lost_and_found)
 
 **Windows版ダウンロード**  
-[https://drive.google.com/file/d/1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o/view?usp=drive_link](https://drive.google.com/file/d/1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o/view?usp=drive_link)
+[https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download](https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download)
