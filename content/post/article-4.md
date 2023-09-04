@@ -1,6 +1,7 @@
 ---
 title: かけあがれ！ ユニティちゃん
 description: 
+image: images/kakeagare_unitychan.jpg
 ---
 
 <img src="images/kakeagare_unitychan.jpg" width="50%">

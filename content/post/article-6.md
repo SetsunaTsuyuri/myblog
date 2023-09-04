@@ -1,6 +1,7 @@
 ---
 title: ミニゲーム集
 description: 
+image: images/minigames_1.jpg
 ---
 
 <img src="images/minigames_1.jpg" width="50%">

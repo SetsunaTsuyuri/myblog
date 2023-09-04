@@ -1,6 +1,7 @@
 ---
 title: サンタクロースの落とし物
 description: 
+image: images/santaclaus_lost_and_found.jpg
 ---
 
 <img src="images/santaclaus_lost_and_found.jpg" width="50%">

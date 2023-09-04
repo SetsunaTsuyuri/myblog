@@ -1,6 +1,7 @@
 ---
 title: 夢幻のアルカイク
 description:
+image: images/archetypes_of_dreams.jpg
 ---
 
 <img src="images/archetypes_of_dreams.jpg" width="50%">

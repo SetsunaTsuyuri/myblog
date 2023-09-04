@@ -1,6 +1,7 @@
 ---
 title: 2Dシューティング
 description: 
+image: images/shooting_2d.jpg
 ---
 
 <img src="images/shooting_2d.jpg" width="50%">

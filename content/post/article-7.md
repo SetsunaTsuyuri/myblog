@@ -1,6 +1,7 @@
 ---
 title: ぷちぷちクラッシュ！
 description: 
+image: images/puchi_puchi_crash.jpg
 ---
 
 <img src="images/puchi_puchi_crash.jpg" width="50%">

@@ -1,6 +1,7 @@
 ---
 title: いきのこれ！ ユニティちゃん
 description: 
+image: images/survive_unitychan.jpg
 ---
 
 <img src="images/survive_unitychan.jpg" width="50%">
