@@ -4,6 +4,7 @@ title: 夢幻のアルカイク
 description:
 icon:
 image: images/archetypes_of_dreams.jpg
+video: https://youtu.be/zxwHTr6AhxM
 download: https://drive.google.com/u/0/uc?id=18PimQrFq-kUKFkZznzmk2UnfFp1_MJNO&export=download
 ---
 

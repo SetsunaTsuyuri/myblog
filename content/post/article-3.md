@@ -4,6 +4,7 @@ title: サンタクロースの落とし物
 description: 
 icon: 
 image: images/santaclaus_lost_and_found.jpg
+video: https://youtu.be/CVTo7z-Sle4
 download: https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download
 ---
 

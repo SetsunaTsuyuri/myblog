@@ -4,6 +4,7 @@ title: いきのこれ！ ユニティちゃん
 description: 
 icon:
 image: images/survive_unitychan.jpg
+video: https://youtu.be/xfeaJHBlR9Q
 download: https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download
 ---
 

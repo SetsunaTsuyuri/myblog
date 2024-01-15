@@ -4,6 +4,7 @@ title: ミニゲーム集
 description: 
 icon: 
 image: images/minigames_1.jpg
+video: https://youtu.be/md2g1PY-mRY
 download: https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download
 ---
 
@@ -12,7 +13,7 @@ download: https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&e
 制作期間 : 2021/4 ～ 2021/6 (3ヵ月)
 
 **プレイ動画**  
-[https://youtu.be/AWPZq37cDGQ](https://youtu.be/AWPZq37cDGQ)
+[https://youtu.be/md2g1PY-mRY](https://youtu.be/md2g1PY-mRY)
 
 **ソースコード**  
 [https://github.com/SetsunaTsuyuri/MiniGames](https://github.com/SetsunaTsuyuri/MiniGames)

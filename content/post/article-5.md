@@ -4,6 +4,7 @@ title: 2Dシューティング
 description: 
 icon: 
 image: images/shooting_2d.jpg
+video: https://youtu.be/AWPZq37cDGQ
 download: https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download
 ---
 
@@ -12,7 +13,7 @@ download: https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&e
 制作期間 : 2020/6 ～ 2020/7 (2ヵ月)
 
 **プレイ動画**  
-[https://youtu.be/md2g1PY-mRY](https://youtu.be/md2g1PY-mRY)
+[https://youtu.be/AWPZq37cDGQ](https://youtu.be/AWPZq37cDGQ)
 
 **ソースコード**  
 [https://github.com/SetsunaTsuyuri/Shooting2D_Public](https://github.com/SetsunaTsuyuri/Shooting2D_Public)

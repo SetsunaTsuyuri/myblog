@@ -4,6 +4,7 @@ title: かけあがれ！ ユニティちゃん
 description: 
 icon: 
 image: images/kakeagare_unitychan.jpg
+video: https://youtu.be/Z20QEs6-xI8
 download: https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&export=download
 ---
 
