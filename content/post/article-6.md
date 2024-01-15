@@ -1,7 +1,10 @@
 ---
+order: 6
 title: ミニゲーム集
 description: 
+icon: 
 image: images/minigames_1.jpg
+download: https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download
 ---
 
 <img src="images/minigames_1.jpg" width="50%">

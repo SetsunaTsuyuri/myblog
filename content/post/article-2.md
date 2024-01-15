@@ -1,7 +1,10 @@
 ---
+order: 2
 title: いきのこれ！ ユニティちゃん
 description: 
+icon:
 image: images/survive_unitychan.jpg
+download: https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download
 ---
 
 <img src="images/survive_unitychan.jpg" width="50%">

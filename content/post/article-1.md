@@ -1,7 +1,10 @@
 ---
+order: 1
 title: 夢幻のアルカイク
 description:
+icon:
 image: images/archetypes_of_dreams.jpg
+download: https://drive.google.com/u/0/uc?id=18PimQrFq-kUKFkZznzmk2UnfFp1_MJNO&export=download
 ---
 
 <img src="images/archetypes_of_dreams.jpg" width="50%">

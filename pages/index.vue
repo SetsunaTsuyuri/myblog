@@ -5,7 +5,7 @@
       <b-row>
         <b-col
           v-for="post in list"
-          :key="post"
+          :key="post.order"
           sm="12"
           md="8"
           lg="6"
@@ -20,7 +20,10 @@
             <b-card-text class="text-muted">
               {{ post.description }}
             </b-card-text>
-            <b-button :to="'post/' + post.slug" class="card-link">記事を読む</b-button>
+            <b-button-group>
+              <b-button :to="'post/' + post.slug" class="card-link">紹介ページ</b-button>
+              <b-button :href="post.download">ダウンロード</b-button>
+            </b-button-group>
           </b-card>
         </b-col>
       </b-row>
@@ -33,7 +36,7 @@ export default {
   async asyncData ({ $content, params }) {
     const list = await $content('post').fetch()
     list.sort((a, b) => {
-      return (a.path < b.path) ? -1 : 1
+      return (a.order < b.order) ? -1 : 1
     })
     return {
       list

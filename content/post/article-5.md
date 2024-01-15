@@ -1,7 +1,10 @@
 ---
+order: 5
 title: 2Dシューティング
 description: 
+icon: 
 image: images/shooting_2d.jpg
+download: https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download
 ---
 
 <img src="images/shooting_2d.jpg" width="50%">

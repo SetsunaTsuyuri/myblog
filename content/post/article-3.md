@@ -1,7 +1,10 @@
 ---
+order: 3
 title: サンタクロースの落とし物
 description: 
+icon: 
 image: images/santaclaus_lost_and_found.jpg
+download: https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download
 ---
 
 <img src="images/santaclaus_lost_and_found.jpg" width="50%">
