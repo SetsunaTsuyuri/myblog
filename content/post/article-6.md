@@ -6,6 +6,7 @@ icon:
 image: images/minigames_1.jpg
 video: https://youtu.be/md2g1PY-mRY
 download: https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download
+form: https://forms.gle/fnQMW8aN7idkutePA
 ---
 
 <img src="images/minigames_1.jpg" width="50%">
@@ -23,3 +24,6 @@ download: https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&e
 
 **Windows版ダウンロード**  
 [https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download](https://drive.google.com/u/0/uc?id=1DY3YSjFUbDuvIl63exYKajEyLmQVcbar&export=download)
+
+**ご意見・ご感想はこちらから**  
+[https://forms.gle/fnQMW8aN7idkutePA](https://forms.gle/fnQMW8aN7idkutePA)

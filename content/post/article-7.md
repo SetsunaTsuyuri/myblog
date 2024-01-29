@@ -6,6 +6,7 @@ icon:
 image: images/puchi_puchi_crash.jpg
 video: https://youtu.be/cGkph_P4B8U
 download: https://drive.google.com/u/0/uc?id=1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX&export=download
+form: https://forms.gle/d3agMn8MZtGQ65fK8
 ---
 
 <img src="images/puchi_puchi_crash.jpg" width="50%">
@@ -23,3 +24,6 @@ download: https://drive.google.com/u/0/uc?id=1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX&e
 
 **Windows版ダウンロード**  
 [https://drive.google.com/u/0/uc?id=1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX&export=download](https://drive.google.com/u/0/uc?id=1yzf22U_Id6P2gkxboQU7_LRpui3t0IeX&export=download)
+
+**ご意見・ご感想はこちらから**  
+[https://forms.gle/d3agMn8MZtGQ65fK8](https://forms.gle/d3agMn8MZtGQ65fK8)

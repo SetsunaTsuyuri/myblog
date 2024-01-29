@@ -6,6 +6,7 @@ icon:
 image: images/santaclaus_lost_and_found.jpg
 video: https://youtu.be/CVTo7z-Sle4
 download: https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download
+form: https://forms.gle/7NWiUDFRCsaKN79x7
 ---
 
 <img src="images/santaclaus_lost_and_found.jpg" width="50%">
@@ -23,3 +24,6 @@ download: https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&e
 
 **Windows版ダウンロード**  
 [https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download](https://drive.google.com/u/0/uc?id=1PlFHv0PUqYuGS-VyvUz0AZNEf9xLw-1o&export=download)
+
+**ご意見・ご感想はこちらから**  
+[https://forms.gle/7NWiUDFRCsaKN79x7](https://forms.gle/7NWiUDFRCsaKN79x7)

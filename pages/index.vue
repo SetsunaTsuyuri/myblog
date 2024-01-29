@@ -23,6 +23,7 @@
             <b-button :to="'post/' + post.slug" class="card-link">紹介ページ</b-button>
             <b-button :href="post.video">プレイ動画</b-button>
             <b-button :href="post.download">ダウンロード</b-button>
+            <b-button :href="post.form">ご感想</b-button>
           </b-card>
         </b-col>
       </b-row>

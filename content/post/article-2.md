@@ -6,6 +6,7 @@ icon:
 image: images/survive_unitychan.jpg
 video: https://youtu.be/xfeaJHBlR9Q
 download: https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download
+form: https://forms.gle/Q9iPYgqu5w7pL9Gi9
 ---
 
 <img src="images/survive_unitychan.jpg" width="50%">
@@ -23,3 +24,6 @@ download: https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&e
 
 **Windows版ダウンロード**  
 [https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download](https://drive.google.com/u/0/uc?id=1VLPQqNG83yEpCaiHSGTUQMmQeUb_sx4-&export=download)
+
+**ご意見・ご感想はこちらから**  
+[https://forms.gle/Q9iPYgqu5w7pL9Gi9](https://forms.gle/Q9iPYgqu5w7pL9Gi9)

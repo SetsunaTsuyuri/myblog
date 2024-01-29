@@ -6,6 +6,7 @@ icon:
 image: images/kakeagare_unitychan.jpg
 video: https://youtu.be/Z20QEs6-xI8
 download: https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&export=download
+form: https://forms.gle/NCMnNHSzHzjZ9ojd8
 ---
 
 <img src="images/kakeagare_unitychan.jpg" width="50%">
@@ -23,3 +24,6 @@ download: https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&e
 
 **Windows版ダウンロード**  
 [https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&export=download](https://drive.google.com/u/0/uc?id=1fWTk6_7oPes4f5fU-7Ftg1mpYQw3HBiN&export=download)
+
+**ご意見・ご感想はこちらから**  
+[https://forms.gle/NCMnNHSzHzjZ9ojd8](https://forms.gle/NCMnNHSzHzjZ9ojd8)

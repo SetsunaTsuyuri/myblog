@@ -6,6 +6,7 @@ icon:
 image: images/shooting_2d.jpg
 video: https://youtu.be/AWPZq37cDGQ
 download: https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download
+form: https://forms.gle/PLCLA3X8PHeSMc4n6
 ---
 
 <img src="images/shooting_2d.jpg" width="50%">
@@ -23,3 +24,6 @@ download: https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&e
 
 **Windows版ダウンロード**  
 [https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download](https://drive.google.com/u/0/uc?id=1V193H0RFFKYbFlxxnBQvvUONinqTn3pQ&export=download)
+
+**ご意見・ご感想はこちらから**  
+[https://forms.gle/PLCLA3X8PHeSMc4n6](https://forms.gle/PLCLA3X8PHeSMc4n6)
